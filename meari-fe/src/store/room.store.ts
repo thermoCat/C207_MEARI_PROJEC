@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 import type { RoomDetailData } from '../api/rooms.api';
 
-interface RoomState {
+export interface RoomState {
   roomData: RoomDetailData | null;
   contentId: number | null;
   setRoomData: (data: RoomDetailData | null) => void;

@@ -4,13 +4,10 @@ import type { AxiosResponse } from 'axios'
 import type { ApiResponse } from './auth.api'
 
 export type ActivityType = 'DAILY_LEARNING' | 'COPIC' | 'SHADOWING'
-
 export type DailyLearningCategory = 'WORD' | 'SENTENCE'
 export type DailyLearningStatus = 'COMPLETED' | 'IN_PROGRESS'
-
 export type CopicEvent = 'EXAM_COMPLETED' | 'GRADING_COMPLETED'
 export type CopicStatus = 'IN_PROGRESS' | 'COMPLETED'
-
 export type ShadowingStatus = 'STARTED' | 'COMPLETED'
 
 export interface DailyLearningPayload {
@@ -260,5 +257,3 @@ export const getActivityFeedReal = async (
 const useMock = apiConfig.shouldMock('ACTIVITY_FEED')
 
 export const getActivityFeed = useMock ? getActivityFeedMock : getActivityFeedReal
-
-console.log(`[ActivityFeedAPI] Initialized. Mode: ${useMock ? 'MOCK' : 'REAL'}`)
