@@ -1,10 +1,10 @@
-﻿
+
 <br>
 <br>
 
 <div align="center">
 
-![logo-dark-2.svg](logo-dark-2.svg)
+![logo-dark-2.svg](assets/logo-dark-2.svg)
 
 <br>
 <br>
@@ -83,13 +83,13 @@
 <br>
 
 
-![?쒕뵫?섏씠吏 (1).png](%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%281%29.png)
-![?쒕뵫?섏씠吏 (2).png](%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%282%29.png)
-![?쒕뵫?섏씠吏 (4).png](%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%284%29.png)
-![?쒕뵫?섏씠吏 (3).png](%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%283%29.png)
-![?쒕뵫?섏씠吏 (5).png](%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%285%29.png)
-![?쒕뵫?섏씠吏 (6).png](%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%286%29.png)
-![?쒕뵫?섏씠吏 (7).png](%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%287%29.png)
+![?쒕뵫?섏씠吏 (1).png](assets/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%281%29.png)
+![?쒕뵫?섏씠吏 (2).png](assets/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%282%29.png)
+![?쒕뵫?섏씠吏 (4).png](assets/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%284%29.png)
+![?쒕뵫?섏씠吏 (3).png](assets/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%283%29.png)
+![?쒕뵫?섏씠吏 (5).png](assets/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%285%29.png)
+![?쒕뵫?섏씠吏 (6).png](assets/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%286%29.png)
+![?쒕뵫?섏씠吏 (7).png](assets/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80%20%287%29.png)
 
 
 <br>
@@ -99,49 +99,49 @@
   - ?ㅼ씤 媛?????곸긽??湲곕컲?쇰줈 ?곹솴怨?留λ씫, ?섏븰?ㅺ퉴吏 ?숈뒿
   - ?ㅼ깮??湲곕컲 而⑦뀗痢?援ъ꽦?쇰줈, ?섏쓽 ?섍꼍怨??꾩슂??留욌뒗 而⑦뀗痢좊? ?좏깮?섏뿬 ?숈뒿
 
-![?먮룄??硫ㅻ쾭李몄뿬.png](%EC%89%90%EB%8F%84%EC%9E%89_%EB%A9%A4%EB%B2%84%EC%B0%B8%EC%97%AC.png)
-![?먮룄???뱀쓬以묒븣由?png](%EC%89%90%EB%8F%84%EC%9E%89_%EB%85%B9%EC%9D%8C%EC%A4%91%EC%95%8C%EB%A6%BC.png)
+![?먮룄??硫ㅻ쾭李몄뿬.png](assets/%EC%89%90%EB%8F%84%EC%9E%89_%EB%A9%A4%EB%B2%84%EC%B0%B8%EC%97%AC.png)
+![?먮룄???뱀쓬以묒븣由?png](assets/%EC%89%90%EB%8F%84%EC%9E%89_%EB%85%B9%EC%9D%8C%EC%A4%91%EC%95%8C%EB%A6%BC.png)
 <br><br><br>
 
 ### **2. ?쒓컙怨??μ냼??援ъ븷諛쏆? ?딅뒗 ?먭꺽 洹몃９ ?숈뒿**
   - 嫄곗＜ 援??, 吏?? ?쒓컙??愿怨??놁씠 ?먰븷 ???몄젣???숈뒿???쒖옉?????덈뒗 ?ㅼ떆媛??ㅽ꽣?붾８
   - ?붿긽?듯솕? ?ㅼ떆媛?梨꾪똿?쇰줈,  ?먰솢???섏궗?뚰넻 媛??
 
-![硫붿씤?섏씠吏.png](%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png)
-![?먮룄???μ튂?ㅼ젙.png](%EC%89%90%EB%8F%84%EC%9E%89_%EC%9E%A5%EC%B9%98%EC%84%A4%EC%A0%95.png)
-![?먮룄???ㅼ떆媛꾩콈??png](%EC%89%90%EB%8F%84%EC%9E%89_%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%B1%84%ED%8C%85.png)
+![硫붿씤?섏씠吏.png](assets/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+![?먮룄???μ튂?ㅼ젙.png](assets/%EC%89%90%EB%8F%84%EC%9E%89_%EC%9E%A5%EC%B9%98%EC%84%A4%EC%A0%95.png)
+![?먮룄???ㅼ떆媛꾩콈??png](assets/%EC%89%90%EB%8F%84%EC%9E%89_%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%B1%84%ED%8C%85.png)
 <br><br><br>
 
 ### **3. 二쇱뼱吏??곹솴??????몄뼱???泥섎뒫???됯? 諛??숈뒿 ?쒕퉬??肄뷀뵿**
 - ?곹솴???곕Ⅸ 臾몃㎘怨??섏븰?? ?쒗쁽???곸젅?깆쓣 ?됯??섍퀬, 媛쒖꽑?먯쓣 ?꾩텧
 
-![肄뷀뵿_?뱀쓬??png](%EC%BD%94%ED%94%BD_%EB%85%B9%EC%9D%8C%EC%A0%84.png)
-![肄뷀뵿_?뱀쓬以?png](%EC%BD%94%ED%94%BD_%EB%85%B9%EC%9D%8C%EC%A4%91.png)
-![肄뷀뵿_臾명빆蹂??쇰뱶諛??앹꽦以?png](%EC%BD%94%ED%94%BD_%EB%AC%B8%ED%95%AD%EB%B3%84_%ED%94%BC%EB%93%9C%EB%B0%B1_%EC%83%9D%EC%84%B1%EC%A4%91.png)
-![肄뷀뵿_由ы룷?몄깮???꾨즺.png](%EC%BD%94%ED%94%BD_%EB%A6%AC%ED%8F%AC%ED%8A%B8%EC%83%9D%EC%84%B1_%EC%99%84%EB%A3%8C.png)
+![肄뷀뵿_?뱀쓬??png](assets/%EC%BD%94%ED%94%BD_%EB%85%B9%EC%9D%8C%EC%A0%84.png)
+![肄뷀뵿_?뱀쓬以?png](assets/%EC%BD%94%ED%94%BD_%EB%85%B9%EC%9D%8C%EC%A4%91.png)
+![肄뷀뵿_臾명빆蹂??쇰뱶諛??앹꽦以?png](assets/%EC%BD%94%ED%94%BD_%EB%AC%B8%ED%95%AD%EB%B3%84_%ED%94%BC%EB%93%9C%EB%B0%B1_%EC%83%9D%EC%84%B1%EC%A4%91.png)
+![肄뷀뵿_由ы룷?몄깮???꾨즺.png](assets/%EC%BD%94%ED%94%BD_%EB%A6%AC%ED%8F%AC%ED%8A%B8%EC%83%9D%EC%84%B1_%EC%99%84%EB%A3%8C.png)
 
 <br><br><br>
 
 ### **4. AI 湲곕컲 諛쒖쓬, ?듭뼇, ?뺥솗?? ?댁슜 ?곸젅???쇰뱶諛?由ы룷??*
   - 湲곕뒫?? ?댁슜???쇰뱶諛깆쓣 ?쒓났?섎뒗 ?먮룄??由ы룷?몄? 肄뷀뵿 由ы룷??
 
-![由ы룷???앹꽦 ?뚮┝.png](%EB%A6%AC%ED%8F%AC%ED%8A%B8%20%EC%83%9D%EC%84%B1%20%EC%95%8C%EB%A6%BC.png)
-![留덉씠?섏씠吏_由ы룷?몃ぉ濡?png](%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%A6%AC%ED%8F%AC%ED%8A%B8%EB%AA%A9%EB%A1%9D.png)
-![留덉씠?섏씠吏_由ы룷??_ ?꾩껜?먯닔.png](%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%A6%AC%ED%8F%AC%ED%8A%B81_%20%EC%A0%84%EC%B2%B4%EC%A0%90%EC%88%98.png)
-![留덉씠?섏씠吏_由ы룷??_臾몄옣蹂꾩젏??png](%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%A6%AC%ED%8F%AC%ED%8A%B82_%EB%AC%B8%EC%9E%A5%EB%B3%84%EC%A0%90%EC%88%98.png)
-![留덉씠?섏씠吏_由ы룷??_?ㅻ쪟??png](%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%A6%AC%ED%8F%AC%ED%8A%B83_%EC%98%A4%EB%A5%98%EC%9C%A8.png)
-![留덉씠?섏씠吏_由ы룷??_臾몄옣?뚯젅蹂꾩???png](%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%A6%AC%ED%8F%AC%ED%8A%B86_%EB%AC%B8%EC%9E%A5%EC%9D%8C%EC%A0%88%EB%B3%84%EC%A7%80%ED%91%9C.png)
+![由ы룷???앹꽦 ?뚮┝.png](assets/%EB%A6%AC%ED%8F%AC%ED%8A%B8%20%EC%83%9D%EC%84%B1%20%EC%95%8C%EB%A6%BC.png)
+![留덉씠?섏씠吏_由ы룷?몃ぉ濡?png](assets/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%A6%AC%ED%8F%AC%ED%8A%B8%EB%AA%A9%EB%A1%9D.png)
+![留덉씠?섏씠吏_由ы룷??_ ?꾩껜?먯닔.png](assets/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%A6%AC%ED%8F%AC%ED%8A%B81_%20%EC%A0%84%EC%B2%B4%EC%A0%90%EC%88%98.png)
+![留덉씠?섏씠吏_由ы룷??_臾몄옣蹂꾩젏??png](assets/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%A6%AC%ED%8F%AC%ED%8A%B82_%EB%AC%B8%EC%9E%A5%EB%B3%84%EC%A0%90%EC%88%98.png)
+![留덉씠?섏씠吏_由ы룷??_?ㅻ쪟??png](assets/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%A6%AC%ED%8F%AC%ED%8A%B83_%EC%98%A4%EB%A5%98%EC%9C%A8.png)
+![留덉씠?섏씠吏_由ы룷??_臾몄옣?뚯젅蹂꾩???png](assets/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%A6%AC%ED%8F%AC%ED%8A%B86_%EB%AC%B8%EC%9E%A5%EC%9D%8C%EC%A0%88%EB%B3%84%EC%A7%80%ED%91%9C.png)
 <br><br><br>
 
 
 ### **5. ?댄쐶? 臾몃쾿??蹂댁땐?댁＜???쇱씪?숈뒿 怨쇱젣**
   - 諛쒗솕??湲곕컲???섎뒗 臾몃쾿怨??댄쐶??袁몄????숈뒿 ?낅젮
 
-![?⑥뼱?숈뒿.png](%EB%8B%A8%EC%96%B4%ED%95%99%EC%8A%B5.png)
-![?⑥뼱?숈뒿_?꾨즺.png](%EB%8B%A8%EC%96%B4%ED%95%99%EC%8A%B5_%EC%99%84%EB%A3%8C.png)
-![臾몄옣?쒖꽌留욎텛湲?png](%EB%AC%B8%EC%9E%A5%EC%88%9C%EC%84%9C%EB%A7%9E%EC%B6%94%EA%B8%B0.png)
-![臾몄옣?쒖꽌留욎텛湲??ㅻ떟.png](%EB%AC%B8%EC%9E%A5%EC%88%9C%EC%84%9C%EB%A7%9E%EC%B6%94%EA%B8%B0_%EC%98%A4%EB%8B%B5.png)
-![?쇱씪?숈뒿?댁뿭.png](%EC%9D%BC%EC%9D%BC%ED%95%99%EC%8A%B5%EB%82%B4%EC%97%AD.png)
+![?⑥뼱?숈뒿.png](assets/%EB%8B%A8%EC%96%B4%ED%95%99%EC%8A%B5.png)
+![?⑥뼱?숈뒿_?꾨즺.png](assets/%EB%8B%A8%EC%96%B4%ED%95%99%EC%8A%B5_%EC%99%84%EB%A3%8C.png)
+![臾몄옣?쒖꽌留욎텛湲?png](assets/%EB%AC%B8%EC%9E%A5%EC%88%9C%EC%84%9C%EB%A7%9E%EC%B6%94%EA%B8%B0.png)
+![臾몄옣?쒖꽌留욎텛湲??ㅻ떟.png](assets/%EB%AC%B8%EC%9E%A5%EC%88%9C%EC%84%9C%EB%A7%9E%EC%B6%94%EA%B8%B0_%EC%98%A4%EB%8B%B5.png)
+![?쇱씪?숈뒿?댁뿭.png](assets/%EC%9D%BC%EC%9D%BC%ED%95%99%EC%8A%B5%EB%82%B4%EC%97%AD.png)
 
 <br><br><br>
 
@@ -149,8 +149,8 @@
   - ?쇰퀎 ?숈뒿 湲곕줉 ?듯빀 ?듯빀 議고쉶濡??깆옣 怨쇱젙 ?뺤씤
 
 
-![留덉씠?섏씠吏_??쒕낫??.png](%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C1.png)
-![留덉씠?섏씠吏_??쒕낫??.png](%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C2.png)
+![留덉씠?섏씠吏_??쒕낫??.png](assets/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C1.png)
+![留덉씠?섏씠吏_??쒕낫??.png](assets/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C2.png)
 
 
 <br>
@@ -303,7 +303,7 @@
 </div>
 <br>
 
-![meari_architecture.png](meari_architecture.png)
+![meari_architecture.png](assets/meari_architecture.png)
 
 <br>
 
@@ -319,7 +319,7 @@
 <br>
 </div>
 
-![meari_erd.png](meari_erd.png)
+![meari_erd.png](assets/meari_erd.png)
 <br>
 <br><br>
 <br>
